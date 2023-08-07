@@ -12,6 +12,12 @@ Install the required dependencies:
 npm i --save
 ```
 
+(if error,)
+
+```
+npm i --save -f
+```
+
 ## Development
 
 ```
