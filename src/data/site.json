@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "href": "https://blog.wol1.xyz",
+      "key": "Blog",
+      "value": "WoL's Blog",
+      "color": "#2EA9DF"
+    },
+    {
+      "href": "https://github.com/WoLeo-Z",
+      "key": "GitHub",
+      "value": "@WoLeo-Z",
+      "color": "#787D7B"
+    },
+    {
+      "href": "https://twitter.com/w0leo",
+      "key": "𝕏 (Twitter)",
+      "value": "WoL (@w0leo)",
+      "color": "#2B90D9"
+    },
+    {
+      "href": "https://space.bilibili.com/",
+      "key": "Bilibili",
+      "value": "没B站账号的屑",
+      "color": "#F596AA"
+    }
+  ]
+}

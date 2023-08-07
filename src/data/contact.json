@@ -1,0 +1,16 @@
+{
+  "title": "联系我",
+  "subtitle": "Contact",
+  "data": [
+    {
+      "href": "mailto:me@wol1.xyz",
+      "key": "E-mail",
+      "value": "me@wol1.xyz"
+    },
+    {
+      "href": "https://t.me/wo1eo",
+      "key": "Telegram",
+      "value": "@wo1eo"
+    }
+  ]
+}

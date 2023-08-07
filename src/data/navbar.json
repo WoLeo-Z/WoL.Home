@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Home",
+    "data": null,
+    "icon": "gesture",
+    "link": "https://www.wol1.xyz/",
+    "color": "blue"
+  },
+  {
+    "text": "Blog",
+    "data": null,
+    "icon": "earth",
+    "link": "https://blog.wol1.xyz/",
+    "color": "green"
+  },
+  {
+    "text": "Drive (Closed)",
+    "data": null,
+    "icon": "cloud",
+    "link": "https://drive.wol1.xyz/",
+    "color": "deep-orange"
+  },
+  {
+    "text": "Projects",
+    "data": [
+      {
+        "href": "https://github.com/WoLeo-Z/kernel_xiaomi_venus",
+        "text": "Android Kernel fot Venus"
+      },
+      {
+        "href": "#",
+        "text": "咕咕咕~"
+      }
+    ],
+    "icon": "package-variant-closed",
+    "link": null,
+    "color": "deep-purple"
+  },
+  {
+    "text": "Links (Fixing...)",
+    "data": null,
+    "icon": "link-variant",
+    "link": "https://blog.wol1.xyz/link/",
+    "color": "grey"
+  }
+]
